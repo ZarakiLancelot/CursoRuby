@@ -1,0 +1,7 @@
+#Arrays
+
+
+nombres_estudiantes['Edwin','Alex','Hugo','Diego','Oliverio']
+edades_estudiantes[35,35,34,36,36]
+
+puts nombres_estudiantes[0]
